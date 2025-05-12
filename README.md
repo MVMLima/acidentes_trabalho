@@ -1,2 +1,1 @@
-# acidentes_trabalho
-# acidentes_trabalho
+# Repositório dos arquivos do artigo referente aos Acidentes de Trabalho
