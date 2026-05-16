@@ -96,13 +96,18 @@ aweek, clipr, skimr
 
 Os arquivos `.RData` contêm dados do SINAN e SIM, que podem incluir informações sensíveis de saúde. Certifique-se de estar em conformidade com a **Lei Geral de Proteção de Dados (LGPD)** antes de compartilhar ou publicar esses dados.
 
-## Autor
+## Autores
 
 **Marcos Venicius Malveira de Lima**  
 EpiSUS Avançado — Programa de Treinamento em Epidemiologia Aplicada aos Serviços do SUS  
-Secretaria de Vigilância em Saúde — Ministério da Saúde  
+Secretaria de Vigilância em Saúde — Ministério da Saúde
 
-📧 enf.econ@gmail.com  
+**Klauss K. S. Garcia**
+The London School of Hygiene and Tropical Medicine
+Department of Infectious Disease Epidemiology and International Health
+Faculty of Epidemiology and Population Health
+
+📧 e  
 🐙 [MVMLima](https://github.com/MVMLima)
 
 ## Como citar
