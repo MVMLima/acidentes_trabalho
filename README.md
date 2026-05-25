@@ -91,11 +91,6 @@ aweek, clipr, skimr
    ```r
    load("artigo_acidentes_trabalho.RData")
    ```
-
-## Aviso de privacidade
-
-Os arquivos `.RData` contêm dados do SINAN e SIM, que podem incluir informações sensíveis de saúde. Certifique-se de estar em conformidade com a **Lei Geral de Proteção de Dados (LGPD)** antes de compartilhar ou publicar esses dados.
-
 ## Autores
 
 **Marcos Venicius Malveira de Lima**  
